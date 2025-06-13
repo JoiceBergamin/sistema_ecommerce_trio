@@ -21,7 +21,6 @@ Em nosso projeto usamos o padrão State para organizar a sequência lógica e co
 * Frameworks: SpringBoot
 * Banco de Dados: PostgreSQL
 
-## Aprendizados e Desafios
 ## Time de Desenvolvimento
 Joice de Andrade Bergamin
 [![GitHubs](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/JoiceBergamin)
